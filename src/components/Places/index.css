@@ -1,0 +1,21 @@
+.list-iitems {
+  background-color: #ffffff;
+  margin: 10px;
+  width: 40%;
+}
+.image-style {
+  height: 200px;
+}
+.heading-card {
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #475569;
+  margin: 10px;
+  font-weight: 600;
+}
+.para-card {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #64748b;
+  margin: 10px;
+}
